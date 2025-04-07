@@ -1,0 +1,1 @@
+<a class="book-card collection-card" href="book.php?bookID=<?=$collection['id_book']?>" style="background-image: url('<?=$collection['book_img']?>'); background-position: center; background-size: cover;"></a>
